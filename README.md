@@ -28,7 +28,7 @@ Os materiais foram conferidos localmente. A execução nas máquinas da oficina 
 
 ## Sobre os PDFs
 
-Os PDFs de Terminal e Bibliotecas foram exportados do Canva em 17/11/2026, com texto selecionável e sem notas dos apresentadores. Em Bibliotecas, quando um slide indicar `pratica/alunos/`, abra a atividade correspondente na [pasta de práticas deste repositório](modulos/04-bibliotecas/pratica/README.md).
+Os PDFs de Terminal e Bibliotecas foram exportados do Canva em 17/11/2026, com texto selecionável e sem notas dos apresentadores.
 
 
 O arquivo Aula Terminal (BASE).odt foi preservado em arquivo/ como referência da preparação anterior. O material atual está em modulos/02-terminal.
