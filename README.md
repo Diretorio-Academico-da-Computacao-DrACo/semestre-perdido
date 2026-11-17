@@ -1,13 +1,11 @@
 # O Semestre Perdido
 
-Oficina do Diretório Acadêmico da Computação da UFG, o DrACo. Referência: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/).
+Oficina do DrACo. Referência: [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/).
 
 | Dia | Horário | Sala |
 | --- | --- | --- |
 | 18/11/2026 | 13h às 18h | CAB 106 |
 | 19/11/2026 | 13h às 16h40 | CAB 105 |
-
-Campus Samambaia, UFG. A oficina combina explicação, demonstração e exercícios presenciais.
 
 ## Materiais
 
