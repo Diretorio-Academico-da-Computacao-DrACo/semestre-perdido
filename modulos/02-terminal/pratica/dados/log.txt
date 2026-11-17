@@ -1,0 +1,6 @@
+01 INFO inicio
+02 ERRO arquivo ausente
+03 INFO tentando novamente
+04 ERRO acesso negado
+05 ERRO tempo esgotado
+06 INFO fim
