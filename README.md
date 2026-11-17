@@ -26,11 +26,9 @@ Os materiais foram conferidos localmente. A execução nas máquinas da oficina 
 
 [Referências e créditos](REFERENCIAS.md).
 
-
 ## Sobre os PDFs
 
-PDFs de leitura gerados em 17/11/2026 a partir das bases locais revisadas. Não contêm notas dos apresentadores. Cada página é uma imagem do slide, portanto o código não é selecionável no PDF. Os arquivos de código estão disponíveis nas pastas de prática e exemplos. A fonte da capa nesta versão local foi renderizada com a substituição disponível no ambiente. A versão editável do Canva mantém Retropix.
+Os PDFs de Terminal e Bibliotecas foram exportados do Canva em 17/11/2026, com texto selecionável e sem notas dos apresentadores. Em Bibliotecas, quando um slide indicar `pratica/alunos/`, abra a atividade correspondente na [pasta de práticas deste repositório](modulos/04-bibliotecas/pratica/README.md).
 
-Esses PDFs não são exportações baixadas do Canva. Após mudanças nas apresentações editáveis, a equipe deve atualizar os PDFs aqui. Slides de Linux e Git ainda não foram publicados neste repositório.
 
 O arquivo Aula Terminal (BASE).odt foi preservado em arquivo/ como referência da preparação anterior. O material atual está em modulos/02-terminal.
