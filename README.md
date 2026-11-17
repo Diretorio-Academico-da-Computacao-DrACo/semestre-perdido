@@ -13,7 +13,7 @@ Campus Samambaia, UFG. A oficina combina explicação, demonstração e exercíc
 
 | Módulo | Slides | Prática |
 | --- | --- | --- |
-| 1. Linux e software livre | Publicação pendente | Preparação do ambiente durante a oficina |
+| 1. Linux e software livre | [PDF, 10 slides](modulos/01-linux/slides/modulo-01-linux-e-foss.pdf) | [Sessão live e exercício de debug](modulos/01-linux/pratica/README.md) |
 | 2. Terminal | [PDF, 36 slides](modulos/02-terminal/slides/modulo-02-terminal.pdf) | [Enunciados e dados](modulos/02-terminal/pratica/README.md) |
 | 3. Git | Publicação pendente | [Repositório da prática](https://github.com/Diretorio-Academico-da-Computacao-DrACo/semestre-perdido-git-practice) |
 | 4. Bibliotecas, IA e leitura de código | [PDF, 18 slides](modulos/04-bibliotecas/slides/modulo-04-bibliotecas.pdf) | [Enunciados](modulos/04-bibliotecas/pratica/README.md) e [exemplos C/Python](modulos/04-bibliotecas/exemplos/README.md) |
@@ -22,13 +22,13 @@ Campus Samambaia, UFG. A oficina combina explicação, demonstração e exercíc
 
 Baixe este repositório ou use git clone. Leia o README da atividade antes de executar os comandos. Terminal usa Bash e ferramentas GNU. Bibliotecas usa C na prática principal, com uma demonstração em Python. Os requisitos estão nos materiais de cada módulo. Se encontrar um problema de ambiente, chame um monitor.
 
-Os materiais foram conferidos localmente. A execução nas máquinas da oficina ainda precisa ser ensaiada. As apresentações de Linux e Git continuam em revisão com a equipe e serão publicadas aqui quando disponíveis.
+Os materiais foram conferidos localmente. A execução nas máquinas da oficina ainda precisa ser ensaiada. Os slides de Git serão publicados aqui quando disponíveis.
 
 [Referências e créditos](REFERENCIAS.md).
 
 ## Sobre os PDFs
 
-Os PDFs de Terminal e Bibliotecas foram exportados do Canva em 17/11/2026, com texto selecionável e sem notas dos apresentadores.
+Os PDFs de Linux, Terminal e Bibliotecas foram exportados do Canva em 17/11/2026, com texto selecionável e sem notas dos apresentadores.
 
 
 O arquivo Aula Terminal (BASE).odt foi preservado em arquivo/ como referência da preparação anterior. O material atual está em modulos/02-terminal.
