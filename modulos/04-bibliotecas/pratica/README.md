@@ -16,7 +16,7 @@ Execute: ./exemplo
 Resultado esperado: 8.00.
 Explique para a dupla o papel de cada arquivo.
 
-Se travar na configuração, chame um monitor. A pasta retomada contém o exemplo separado.
+Se sua dupla travar, chame um monitor. Ele pode ajudar a identificar o problema ou fornecer uma versão funcional para vocês continuarem a aula.
 
 ## 2. Explica para a dupla · 5 minutos
 
