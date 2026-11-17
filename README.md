@@ -13,10 +13,10 @@ Campus Samambaia, UFG. A oficina combina explicação, demonstração e exercíc
 
 | Módulo | Slides | Para alunos |
 | --- | --- | --- |
-| 1. Linux e software livre | [PDF, 10 slides](modulos/01-linux/slides/modulo-01-linux-e-foss.pdf) | [Sessão live e exercício de debug](modulos/01-linux/pratica/README.md) |
-| 2. Terminal | [PDF, 36 slides](modulos/02-terminal/slides/modulo-02-terminal.pdf) | [Enunciados e dados](modulos/02-terminal/pratica/README.md) |
+| 1. Linux e software livre | [Ver no Canva](https://canva.link/12soyi9y53tc4lc) · [PDF, 10 slides](modulos/01-linux/slides/modulo-01-linux-e-foss.pdf) | [Sessão live e exercício de debug](modulos/01-linux/pratica/README.md) |
+| 2. Terminal | [Ver no Canva](https://canva.link/4pc78mobsl1yc5g) · [PDF, 36 slides](modulos/02-terminal/slides/modulo-02-terminal.pdf) | [Enunciados e dados](modulos/02-terminal/pratica/README.md) |
 | 3. Git | Publicação pendente | [Repositório da prática](https://github.com/Diretorio-Academico-da-Computacao-DrACo/semestre-perdido-git-practice) |
-| 4. Bibliotecas, IA e leitura de código | [PDF, 18 slides](modulos/04-bibliotecas/slides/modulo-04-bibliotecas.pdf) | [Enunciados](modulos/04-bibliotecas/pratica/README.md) e [exemplos C/Python](modulos/04-bibliotecas/exemplos/README.md) |
+| 4. Bibliotecas, IA e leitura de código | [Ver no Canva](https://canva.link/6sjccrf78i92t9v) · [PDF, 18 slides](modulos/04-bibliotecas/slides/modulo-04-bibliotecas.pdf) | [Enunciados](modulos/04-bibliotecas/pratica/README.md) e [exemplos C/Python](modulos/04-bibliotecas/exemplos/README.md) |
 
 ## Para monitores
 
