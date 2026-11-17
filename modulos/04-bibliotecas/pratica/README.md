@@ -38,3 +38,7 @@ Execute: ./revisao
 Compare, encontre o defeito e corrija. Depois execute todos os casos novamente.
 Explique por que os casos inteiros não revelaram o problema.
 Resultados esperados: 8.00, 5.00, 6.00 e 7.75.
+
+## Depois da prática: de módulo local a pacote
+
+O exemplo de Python usa um arquivo irmão com `import`. Para distribuir o projeto como pacote, examine o exemplo de `pyproject.toml` da aula do MIT. Localize o nome, a versão e a lista de dependências. Explique o que essa lista permite informar a quem vai instalar o pacote. Esta leitura pode ser feita depois da oficina. [Packaging and Shipping Code, Missing Semester 2026](https://missing.csail.mit.edu/2026/shipping-code/)

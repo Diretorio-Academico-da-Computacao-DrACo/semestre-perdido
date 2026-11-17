@@ -27,8 +27,18 @@ Consulte man ls e descubra a opção -a. Saia com q.
 Consulte tldr ls, escolha um exemplo e execute. Explique o que ele fez.
 Compare ls dados com ls -a dados e encontre .segredo.
 Use which ls para localizar o executável e compare com os diretórios mostrados por echo "$PATH".
-Crie a variável OFICINA com valor DrACo, mostre o valor e exporte a variável.
-Abra um Bash filho com bash -c 'echo "$OFICINA"' e confira o valor.
+Compare o que o Bash atual vê com o que um Bash filho recebe antes e depois de exportar a variável.
+
+```bash
+unset OFICINA
+OFICINA=DrACo
+echo "$OFICINA"
+bash -c 'echo "${OFICINA:-ausente}"'
+export OFICINA
+bash -c 'echo "${OFICINA:-ausente}"'
+```
+
+Explique as três saídas: `DrACo`, `ausente` e `DrACo`. [Command-line Environment, Missing Semester 2026](https://missing.csail.mit.edu/2026/command-line-environment/)
 Resultado: encontra o arquivo oculto e distingue variável local de variável exportada.
 man e tldr precisam estar preparados no ambiente. Se faltarem, chame um monitor.
 

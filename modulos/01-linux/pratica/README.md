@@ -20,4 +20,6 @@ Abra esta pasta no VS Code. Na aba Extensões (`Ctrl+Shift+X`), confira a extens
 
 Se o depurador estiver indisponível, rode o script no terminal e explique a ordem em que a expressão é calculada.
 
+O exercício da média foi criado para a oficina com base na ideia de parar o programa, inspecionar valores e avançar passo a passo. [Debugging and Profiling, Missing Semester 2026](https://missing.csail.mit.edu/2026/debugging-profiling/)
+
 [Atalhos do VS Code](https://code.visualstudio.com/docs/reference/default-keybindings) · [Depuração de Python](https://code.visualstudio.com/docs/python/debugging)
